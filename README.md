@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Vishnuvardhan
 
-<!--
-**VishnuvardhanBJ/VishnuvardhanBJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am a 🚀 Full Stack Java Developer with experience in building scalable, secure, and high-performance web applications.  
+I work across the entire development lifecycle — from backend APIs using Java & Spring Boot to responsive frontends with ReactJS.  
+Passionate about clean code, performance optimization, and delivering solutions that make an impact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🛠️ Skills
+
+### 💻 Frontend
+`HTML` `JavaScript` `TypeScript` `ReactJS` `CSS` `Tailwind CSS`
+
+### ⚙️ Backend
+`Java` `Spring Boot` `J2EE`
+
+### 🗄️ Database
+`MySQL` `MongoDB`
+
+### 🧰 Others
+`Git` `Visual Studio Code` `Postman`
+
+
+## 🌱 Currently Learning
+- Microservices Architecture
+

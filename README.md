@@ -9,16 +9,16 @@ Passionate about clean code, performance optimization, and delivering solutions 
 ## 🛠️ Skills
 
 ### 💻 Frontend
-`HTML` `JavaScript` `TypeScript` `ReactJS` `CSS` `Tailwind CSS`
+`HTML` `JavaScript` `TypeScript` `ReactJS` `CSS` `Tailwind CSS` `TanStack Query` `Redux`
 
 ### ⚙️ Backend
-`Java` `Spring Boot` `J2EE`
+`Java` `Spring Boot` `J2EE` `Spring Cloud` `Apache Kafka` `Apache Maven` `Spring Security` `Spring Data JPA` `RESTful Api's`
 
 ### 🗄️ Database
-`MySQL` `MongoDB`
+`MySQL` `MongoDB` `Redis` 
 
 ### 🧰 Others
-`Git` `Visual Studio Code` `Postman`
+`Git` `Visual Studio Code` `Postman` `Jenkins` `Github`
 
 
 ## 🌱 Currently Learning
